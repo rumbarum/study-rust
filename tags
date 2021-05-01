@@ -6,4 +6,6 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/0bcf43b/
+main	Ch.1/hello_cargo/src/main.rs	/^fn main() {$/;"	f
+main	Ch.1/hello_world/main.rs	/^fn main() {$/;"	f
 study-rust	README.md	/^# study-rust$/;"	c
